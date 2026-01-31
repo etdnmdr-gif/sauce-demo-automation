@@ -26,3 +26,6 @@ python -m pytest --alluredir=allure-results
 ```bash
 allure serve allure-results
 ```
+
+## Автор
+**Айнур Кутов**
